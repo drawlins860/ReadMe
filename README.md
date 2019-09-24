@@ -7,7 +7,7 @@ My Github repository currently includes the Angular activities, and an in-progre
 - [Basics Activity (Completed)](https://github.com/drawlins860/Angular-HW-Lab)
 - Angular Services With Dependency Injection (In Progress)
 - Angular Animations, Testing, and Visual Components (In Progress)
-- Tour of Heroes (In Progress)
+- [Tour of Heroes (Completed)](https://github.com/drawlins860/Angular-Tour-Of-Heroes)
 
 # Bootstrap:
 - [Bootstrap lab and homework (Completed)](https://github.com/drawlins860/Bootstrap-Homework-8-19)
